@@ -12,7 +12,6 @@
 > - **💻 JavaScript:** Game logic and interactivity.
 > - **🌐 HTML5:** Structure and layout of the game interface.
 > - **🎨 SCSS:** Styling of game elements.
-> - **📱 Responsive Design:** Adaptable layout using SCSS.
 
 > ## 🚀 How It Works
 > - **Game Initialization:** The game starts with an empty 4x4 grid and two random tiles.
@@ -35,6 +34,11 @@
 > ## 🌐 Live Demo
 > Play the game live at [Game Demo](https://fetrw.github.io/2048_game/).
 
-> ## 🖼️ Screenshot
+> ## 🖼️ Screenshots
 > ![Game Screenshot](./src/images/reference.png)
+> 
+> This screenshot shows the game in progress, with tiles merging and scores updating in real-time. The game board layout and tile colors reflect the current state of the game.
+> 
 > ![Game Screenshot](./src/images/start-page.png)
+> 
+> This screenshot displays the starting page of the game. It shows the initial layout and provides a clear view of the game interface before any moves are made.
